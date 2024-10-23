@@ -19,3 +19,5 @@ The first two responses are labeled as “Y = 1,” and the third is labeled as 
 ## Deliverables
 
 Final submission will include the 'Practical Application 1 Jupyter Notebook' and other relevant files, such as the dataset provided. Data is explored utilising the knowledge of pandas and Python to create statistical summaries demonstrating differences in those who accepted and rejected the coupon. The Matplotlib and Seaborn libraries to create a visualization using Python are utilised. 
+
+
